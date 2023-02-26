@@ -1,0 +1,10 @@
+{
+    "id": "mcdrcon",
+    "version": "1.0.0",
+    "name": "MCDRcon",
+    "description": "RCON for MCDReforged",
+    "author": [
+        "Huaji_MUR233"
+    ],
+    "link": "https://github.com/HuajiMURsMC/MCDRcon"
+}
